@@ -29,4 +29,4 @@ By repeating these steps we  conclude  the total  transmissions  required.
 
  #### Go-Back-N-ARQ
 
-![output](go_back_n_protocol.png)
+![output](go_back_n-protocol.png)
